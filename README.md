@@ -29,15 +29,14 @@ Apresentação sobre commits
 ---
 
 ## 📈 Estatísticas do GitHub
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=dracula)  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodoxson&layout=compact&theme=dracula)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodoxson&show_icons=true&theme=dracula)
 
 ---
 
 ## 📫 Contato
-- [LinkedIn](https://www.linkedin.com/in/seuusuario)
-- [Portfólio](https://seusite.com)
-- [E-mail](mailto:seuemail@exemplo.com)
+
+- [E-mail](mailto:rodoxson1987@gmail.com)
 
 ---
 
